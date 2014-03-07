@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root>
+	<list>
+		<item>
+			<name>Mouse key 4 to backkey</name>
+			<identifier>remap.mouse_button4</identifier>
+			<autogen>
+				--PointingButtonToKey-- PointingButton::BUTTON4,KeyCode::JIS_BRACKET_LEFT,ModifierFlag::COMMAND_L
+			</autogen>
+		</item>
+	</list>
+</root>
